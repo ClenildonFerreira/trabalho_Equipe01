@@ -18,5 +18,5 @@
 #### Ferramentas
 * Maven - 3.2+
 * IDE - Eclipse ou Spring Tool Suite (STS) // Spring boot API development
-* Visual Studio 2017 // Desenvolvimento de aplicativos angulares
+* Visual Studio 2019 // Desenvolvimento de aplicativos angulares
 * CLI Angular
